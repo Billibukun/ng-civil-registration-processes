@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Civil Registration and Vital Statistics System'
+copyright = '2024, National Population Commisison'
+author = 'Ibukunoluwa Omonijo, Information Developer'
 
 release = '0.1'
 version = '0.1.0'
